@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Apache Public License v2"
+[[mods]]
+modId="westerosbooks"
+version="${file.jarVersion}"
+displayName="WesterosBooks"
+#logoFile="examplemod.png"
+credits=""
+authors="mikeprimm"
+description='''
+Container and logic mod for Patchouli books for WesterosCraft
+'''
+[[dependencies.westerosbooks]] 
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.westerosbooks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.westerosbooks]] 
+    modId="patchouli"
+    mandatory=true
+    versionRange="[1.18.2-71.1,)"
+    ordering="NONE"
+    side="BOTH"
