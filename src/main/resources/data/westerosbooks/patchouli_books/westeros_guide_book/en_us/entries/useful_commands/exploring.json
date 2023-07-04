@@ -1,0 +1,21 @@
+{
+    "name": "Exploring",
+    "icon": "minecraft:compass",
+    "category": "westerosbooks:useful_commands",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a collection of practical commands that will prove invaluable for navigating the vast expanse of Westeros."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Warping",
+            "text": "$(li)$(l)/warp <location>$()$(br)The warp command lets you travel to any location in Westeros with ease.  For example, $(c:/warp winterfell)/warp winterfell$(/c) takes you to the castle. $(br)$(li)$(l)/listwarps$()$(br) This command lists all the warps we have, across every world. $(br)$(li)$(l)/mw tp <worldname>$()$(br) This command warps you to the spawn of one of our worlds."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)$(l)/mw list$()$(br) Lists all available worlds to warp to. $(br)$(li)$(l)/mw spawn$()$(br) Warps to the spawn of the current world you are in."
+        }
+    ]
+}
