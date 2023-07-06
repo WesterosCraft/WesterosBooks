@@ -1,0 +1,17 @@
+{
+    "name": "Utility",
+    "icon": "minecraft:book",
+    "category": "westerosbooks:useful_commands",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Commands that adjust configurations for mods or provide other utility"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Communicating",
+            "text": "$(br)$(li)$(l)/wailac config open$()$(br) Lets you configure the $(:https://www.curseforge.com/minecraft/mc-mods/wthit-forge)What Am I Looking At$() mod. $(br)$(li)$(l)/wailac overlay <true | false>$()$(br) Toggles the $(:https://www.curseforge.com/minecraft/mc-mods/wthit-forge)What Am I Looking At$() mod overlay."
+        }
+    ]
+}

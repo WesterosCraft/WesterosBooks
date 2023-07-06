@@ -16,6 +16,10 @@
         {
             "type": "patchouli:text",
             "text": "$(br)$(li)$(l)/mw list$()$(br) Lists all available worlds to warp to. $(br)$(li)$(l)/mw spawn$()$(br) Warps to the spawn of the current world you are in."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)$(l)/tpa <player_name>$()$(br) Teleport to a player. They must accept your request. $(br)$(li)$(l)/tpaccept$()$(br) Accept a teleportation request to you. $(br)$(li)$(l)/tpdeny$()$(br) Request someone teleport to you."
         }
     ]
 }
