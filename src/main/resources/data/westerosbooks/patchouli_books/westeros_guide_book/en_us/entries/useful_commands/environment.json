@@ -1,0 +1,17 @@
+{
+    "name": "Environment",
+    "icon": "westerosblocks:lantern",
+    "category": "westerosbooks:useful_commands",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These commands help control your environment on the server, such as the weather or time of day.  These commands only alter what you can see, not anyone else on the server."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Warping",
+            "text": "$(br)$(li)$(l)/ptime set <time>$()$(br) Sets your time to a certain preset. $(br)$(li)$(l)/ptime setrelative <ahead | behind>$()$(br) This command sets your time either ahead or behind. $(li)$(l)/ptime reset$()$(br)Resets your time to the current server time."
+        }
+    ]
+}
