@@ -1,0 +1,12 @@
+{
+    "name": "Social Media",
+    "icon": "minecraft:oak_sapling",
+    "category": "westerosbooks:community",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "blah blah test"
+        }
+    ]
+}
