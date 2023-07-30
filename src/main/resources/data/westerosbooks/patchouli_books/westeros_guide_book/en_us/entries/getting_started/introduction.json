@@ -1,0 +1,12 @@
+{
+    "name": "Introduction",
+    "icon": "minecraft:oak_sapling",
+    "category": "westerosbooks:getting_started",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(#9B2C2C)WesterosCraft$() is a large-scale Minecraft project that aims to recreate the fictional world of Westeros from the $(o)A Song of Ice and Fire$() book series by George R.R. Martin"
+        }
+    ]
+}

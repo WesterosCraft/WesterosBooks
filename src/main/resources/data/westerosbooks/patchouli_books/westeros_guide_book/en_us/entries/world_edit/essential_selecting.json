@@ -1,0 +1,20 @@
+{
+    "name": "Essential Selecting",
+    "icon": "minecraft:stone_axe",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Selections are used for edits on a large scale."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//wand $()$(br) get the wooden axe and make a selection with left and right click $(br)$(li)$(l)//pos1 $()$(br) manually set corner 1 $(br)$(li)$(l)//pos2$()$(br) manually set corner 2 $()$(br)$(li)$(l)//expand 1$()$(br) expands 1 block in the direction you face"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//expand vert$()$(br) expands cuboid to reach max height $(br)$(li)$(l)//shift 1$()$(br) moves cuboid 1 block to the direction you face"
+        }
+    ]
+}

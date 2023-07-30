@@ -1,0 +1,16 @@
+{
+    "name": "Miscellaneous",
+    "icon": "westerosblocks:apple_crate",
+    "category": "westerosbooks:useful_commands",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A list of random commands that may or may not be helpful"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)$(l)/rtp$()$(br) Teleports you to a random spot on the map."
+        }
+    ]
+}

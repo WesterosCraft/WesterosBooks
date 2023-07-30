@@ -1,0 +1,20 @@
+{
+    "name": "Essential Brushes",
+    "icon": "minecraft:stone_hoe",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Brushes modify anything by looking at a visible block and clicking from a distance."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//br sphere stone 5$()$(br) places stone spheres (radius=5) $(br)$(li)$(l)//br blendball 5$()$(br) smooths surrounding terrain (radius=5) $(br)$(li)$(l)//br pull 5$()$(br) pulls blocks towards you (radius=5) $(br)$(li)$(l)//br catenary dirt 1.075 0.5$()$(br) creates a hanging line"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//br line dirt 0.5$()$(br) creates straight lines 1 block thick $(br)$(li)$(l)//br cyl dirt 5 3$()$(br) places cylinders (radius=5, height=3) $(br)$(li)$(l)//br height 5$()$(br) pulls upward. Useful for terraforming! $(br)$(li)$(l)//br flatten 10$()$(br) makes things flat or horizontal"
+        }
+    ]
+}

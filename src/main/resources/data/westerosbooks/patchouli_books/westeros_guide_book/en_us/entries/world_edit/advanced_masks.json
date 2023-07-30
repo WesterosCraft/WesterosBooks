@@ -1,0 +1,16 @@
+{
+    "name": "Advanced Masks",
+    "icon": "minecraft:iron_hoe",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "With these masks, your actions will only affect blocks within a specific random noise pattern."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//gmask #simplex[1][0][45]$()$(br) basic noise $(br)$(li)$(l)//gmask #simplex[10][0][30]$()$(br) chunky noise $(br)$(li)$(l)//gmask #simplex[20][40][60]$()$(br) water noise"
+        }
+    ]
+}

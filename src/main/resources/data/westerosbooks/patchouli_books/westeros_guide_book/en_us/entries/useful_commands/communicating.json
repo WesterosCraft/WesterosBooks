@@ -1,0 +1,16 @@
+{
+    "name": "Communicating",
+    "icon": "minecraft:writable_book",
+    "category": "westerosbooks:useful_commands",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Helpful commands to help communicate with people."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)$(l)/tell <player_name> <message>$()$(br) Privately message someone. /w and /whisper also do the same thing."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Essential Copying",
+    "icon": "minecraft:wooden_shovel",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Copy things onto your clipboard.  Clipboards can be changed with commands."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//copy$()$(br) copy the selection, puts in on your clipboard $(br)$(li)$(l)//cut$()$(br) copy, but also deletes the selection $(br)$(li)$(l)//rotate <Y> <X> <Z>$()$(br) Rotates the clipboard $(br)$(li)$(l)//flip$()$(br) mirror your clipboard perpendicular to the direction you look"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//paste$()$(br) pastes your clipboard $(br)$(li)$(l)//paste -a$()$(br) pastes your clipboard but without air $(br)$(li)$(l)//br clipboard$()$(br) a brush that places your clipboard $(br)$(li)$(l)//br clipboard -a$()$(br) a brush to place clipboard without air"
+        }
+    ]
+}
