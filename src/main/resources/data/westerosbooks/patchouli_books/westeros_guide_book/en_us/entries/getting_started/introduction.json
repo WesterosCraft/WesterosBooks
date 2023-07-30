@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "blah blah test"
+            "text": "$(#9B2C2C)WesterosCraft$() is a large-scale Minecraft project that aims to recreate the fictional world of Westeros from the $(o)A Song of Ice and Fire$() book series by George R.R. Martin"
         }
     ]
 }

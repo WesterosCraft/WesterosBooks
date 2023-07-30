@@ -10,8 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "title": "Warping",
-            "text": "$(li)$(l)/warp <location>$()$(br)The warp command lets you travel to any location in Westeros with ease.  For example, $(c:/warp winterfell)/warp winterfell$(/c) takes you to the castle. $(br)$(li)$(l)/listwarps$()$(br) This command lists all the warps we have, across every world. $(br)$(li)$(l)/mw tp <worldname>$()$(br) This command warps you to the spawn of one of our worlds."
+            "text": "$(li)$(l)/warp <location>$()$(br)Lets you travel to any location in Westeros with ease.  For example, $(c:/warp winterfell)/warp winterfell$(/c) takes you to the castle. $(br)$(li)$(l)/listwarps$()$(br) This command lists all the warps we have, across every world. $(br)$(li)$(l)/mw tp <worldname>$()$(br) This command warps you to the spawn of one of our worlds."
         },
         {
             "type": "patchouli:text",

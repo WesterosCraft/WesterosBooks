@@ -1,12 +1,12 @@
 {
-    "name": "Keybinds",
-    "icon": "minecraft:compass",
+    "name": "Getting Around",
+    "icon": "minecraft:oak_sapling",
     "category": "westerosbooks:getting_started",
-    "sortnum": 2,
+    "sortnum": 1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "dasd"
+            "text": "blah blah test"
         }
     ]
 }

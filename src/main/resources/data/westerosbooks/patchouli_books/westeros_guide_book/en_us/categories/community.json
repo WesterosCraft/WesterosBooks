@@ -1,6 +1,6 @@
 {
     "name": "Community",
     "description": "Information for exploring Westeros.",
-    "icon": "minecraft:apple",
+    "icon": "westerosblocks:dead_frog",
     "sortnum": 4
 }

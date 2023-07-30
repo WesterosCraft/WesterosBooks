@@ -1,0 +1,20 @@
+{
+    "name": "Essential Within Selections",
+    "icon": "minecraft:stone_shovel",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Run these commands after selecting an area to execute it."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//set stone$()$(br) sets stone in the entire selection $(br)$(li)$(l)//set air$()$(br) clears the entire selection $(br)$(li)$(l)//smooth$()$(br) smooths everything. Useful for terrain! $(br)$(li)$(l)//replace dirt stone$()$(br) replaces dirt with stone"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//replace dirt,air stone$()$(br) replaces both dirt & air with stone $(br)$(li)$(l)//replace stone air$()$(br) replaces all stone with air $(br)$(li)$(l)//overlay dirt$()$(br) puts a layer of dirt on everything $(br)$(li)$(l)//move 1$()$(br) moves the selection in the direction you face"
+        }
+    ]
+}

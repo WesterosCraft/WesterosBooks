@@ -1,0 +1,16 @@
+{
+    "name": "Advanced Selecting",
+    "icon": "minecraft:iron_shovel",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can use fancy shapes to make more accurate selections"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//sel poly$()$(br) Left click will be first point, then every right click adds more points to selection $(br)$(li)$(l)//sel convex$()$(br) Left click is first point, each right click adds more points.  Useful for selecting 3D shapes $(br)$(li)$(l)//sel cuboid$()$(br) Return to basic cuboid selection mode"
+        }
+    ]
+}

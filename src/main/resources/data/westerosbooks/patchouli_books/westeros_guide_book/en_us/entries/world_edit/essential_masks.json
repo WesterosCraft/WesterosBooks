@@ -1,0 +1,20 @@
+{
+    "name": "Essential Masks",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "westerosbooks:world_edit",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Masks make it so your actions only affect certain blocks, regardless of command or action."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//gmask dirt$()$(br) global mask that only affects dirt $(br)$(li)$(l)//mask dirt$()$(br) the held brush only affects dirt $(br)$(li)$(l)//gmask ~oak_log$()$(br) affects blocks next to oak log $(br)$(li)$(l)//gmask >dirt$()$(br) affects blocks on top of dirt"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)//gmask <dirt$()$(br) affects blocks below dirt $(br)$(li)$(l)//gmask dirt,stone$()$(br) affects dirt or stone (a comma = or) $(br)$(li)$(l)//gmask /[0d][30d]$()$(br) affects slopes from 0-30 degrees $(br)$(li)$(l)//gmask $river$()$(br) affects things inside a river biome"
+        }
+    ]
+}

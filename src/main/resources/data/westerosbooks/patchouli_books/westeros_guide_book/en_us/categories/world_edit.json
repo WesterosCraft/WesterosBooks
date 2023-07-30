@@ -1,0 +1,7 @@
+{
+    "name": "World Edit",
+    "description": "Different guides for building on Westeros.",
+    "icon": "minecraft:wooden_axe",
+    "parent": "westerosbooks:guides",
+    "sortnum": 0
+}

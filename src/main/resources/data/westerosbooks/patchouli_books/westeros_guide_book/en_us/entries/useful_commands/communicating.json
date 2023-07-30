@@ -1,6 +1,6 @@
 {
     "name": "Communicating",
-    "icon": "minecraft:book",
+    "icon": "minecraft:writable_book",
     "category": "westerosbooks:useful_commands",
     "sortnum": 1,
     "pages": [
@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(br)$(li)$(l)/tell <player_name> <message>$()$(br) Privately message someone. /w and /whisper also do the same thing. $(br)$(li)$(l)/r$()$(br) Lets users on the map know you are live streaming."
+            "text": "$(br)$(li)$(l)/tell <player_name> <message>$()$(br) Privately message someone. /w and /whisper also do the same thing."
         }
     ]
 }

@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(br)$(li)$(l)/ptime set <time>$()$(br) Sets your time to a certain preset. $(br)$(li)$(l)/ptime setrelative <ahead | behind>$()$(br) This command sets your time either ahead or behind. $(li)$(l)/ptime reset$()$(br)Resets your time to the current server time."
+            "text": "$(br)$(li)$(l)/ptime set <time>$()$(br) Sets your time to a certain preset. $(br)$(li)$(l)/ptime setrelative <ahead | behind>$()$(br) This command sets your time either ahead or behind. $(br)$(li)$(l)/ptime reset$()$(br)Resets your time to the current server time."
         }
     ]
 }
