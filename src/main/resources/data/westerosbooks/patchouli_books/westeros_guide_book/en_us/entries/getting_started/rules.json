@@ -1,0 +1,14 @@
+{
+    "name": "Rules",
+    "icon": "minecraft:bookshelf",
+    "category": "westerosbooks:getting_started",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://westeroscraft.com/wiki/guides/rules-and-guidelines",
+            "link_text": "Read the rules",
+            "text": "Please be sure to read the rules and guidelines when participating on the server.  We have a vibrant, successful community and these rules help keep it that way."
+        }
+    ]
+}

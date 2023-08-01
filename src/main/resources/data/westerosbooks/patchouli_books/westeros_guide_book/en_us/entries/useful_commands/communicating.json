@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(br)$(li)$(l)/tell <player_name> <message>$()$(br) Privately message someone. /w and /whisper also do the same thing."
+            "text": "$(li)$(l)/tell <player_name> <message>$()$(br) Privately message someone. /w and /whisper also do the same thing."
         }
     ]
 }

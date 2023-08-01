@@ -1,12 +1,16 @@
 {
     "name": "Social Media",
-    "icon": "minecraft:oak_sapling",
+    "icon": "minecraft:tropical_fish_spawn_egg",
     "category": "westerosbooks:community",
-    "sortnum": 0,
+    "sortnum": 1,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "blah blah test"
+            "text": "Keep up to date with all the WesterosCraft happenings on social media! Discussions, screenshots, updates and more."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://discord.com/invite/pBS5TH4)Discord$()$(br)$(l:https://www.youtube.com/user/WesterosCraft)Youtube$()$(br)$(l:https://www.instagram.com/westeroscraft)Instagram$()$(br)$(l:https://twitter.com/westeroscraft)Twitter$()$(br)$(l:https://bsky.app/profile/westeroscraft.com)Bluesky$()"
         }
     ]
 }
