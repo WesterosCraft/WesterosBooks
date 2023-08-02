@@ -1,12 +1,24 @@
 {
     "name": "Ranks",
-    "icon": "minecraft:oak_sapling",
+    "icon": "minecraft:arrow",
     "category": "westerosbooks:community",
     "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "blah blah test"
+            "text": "There are several ranks on WesterosCraft we use to designate responsibilities"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)guest$()$(br) Everyone starts out as a guest when they first join the server. You can only explore - no building allowed! $(br)$(li)$(l)new builder$()$(br) Once you've successfully completed the application process, you can start building!$(br)$(li)$(l)builder$()$(br)Full builder status is granted after you've been a new-builder for a certain amount of time"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)editor$()$(br)Trusted builders can get editor status, that lets you use WorldEdit$(br)$(li)$(l)terraformer$()$(br)Basically the same as editors, but dedicated to helping others and terraforming large swaths of land$(br)$(li)$(l)moderator$()$(br)Moderators manage applications, projects, community disputes and other tasks"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l)admin$()$(br)Runs and manages the server, community and code"
         }
     ]
 }
