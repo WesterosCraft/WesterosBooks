@@ -2,5 +2,6 @@
     "name": "WesterosCraft Guidebook",
     "landing_text": "Welcome to the world of WesterosCraft, $(playername)!",
     "version": 1,
-    "creative_tab": "WesterosUtility"
+    "creative_tab": "WesterosUtility",
+    "i18n": true
 }
